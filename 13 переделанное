@@ -1,0 +1,6 @@
+x = int(input("Введите значение x: "))
+pi=3.14
+if x <= pi // 4:
+    print("y = sinx  y = {sin(x)}")
+else:
+    print("y = cosx  y = {cos(x)}")
