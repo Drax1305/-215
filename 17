@@ -1,0 +1,7 @@
+a = 10
+total = 0
+while a <= 100:
+    a_10 = a * 0.1
+    a += a_10
+    total += 1
+print(total)
